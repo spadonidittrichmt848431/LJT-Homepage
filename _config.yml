@@ -15,7 +15,6 @@ name                     : &name "Junteng Liu"
 description              : &description "Junteng Liu - Ph.D. candidate at the HKUST NLP Group"
 url                      : https://spadonidittrichmt848431.github.io # The base hostname & protocol for your site
 baseurl                  : "/LJT-Homepage" # the subpath of your site
-e                        : ""
 repository               : "spadonidittrichmt848431/LJT-Homepage"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
